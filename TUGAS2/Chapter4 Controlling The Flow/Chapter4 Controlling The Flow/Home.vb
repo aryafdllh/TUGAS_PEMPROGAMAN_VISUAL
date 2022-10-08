@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class Home
     Private Sub btnSimpleIf_Click(sender As Object, e As EventArgs) Handles btnSimpleIf.Click
         Simple_If.Show()
     End Sub
